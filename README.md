@@ -1,6 +1,6 @@
-# Apartment Hunt
+# React E-commerce web application
 
-A responsive react_landing_page web application
+A responsive react E-commerce web application
 
 [Live Preview](https://react-landing-page-24419.web.app/)
 
